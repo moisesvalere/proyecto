@@ -1,0 +1,14 @@
+#EXTINF:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Logo_La_Linea_100x100.png" group-title="",ESPN 2
+https://airtek.tv/livestream/ESPN_2.m3u8
+
+#EXTINF:-1 channel-id="TV TV EN VIVO" tvg-id="Canales Deportivos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Logo_La_Linea_100x100.png" group-title="",ESPN
+https://airtek.tv/livestream/ESPN_1.m3u8
+
+#EXTINF:-1 channel-id="SERIES" tvg-id="THE BOYS TEMPORADA 1" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="Serie",The Boys temp 1x1
+https://archive.org/download/the.-boys.-1x-05.lati/The.Boys.1x01.lati.mp4
+
+#EXTINF:-1 channel-id="SERIES" tvg-id="THE BOYS TEMPORADA 1" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="the boys",The Boys temp 1x2
+https://cache011.peliscdn.online/newhls/19647f9c433beb86768fe147a898adab/EP.2.1.v0.1708769851.720.m3u8
+
+#IFRAME:-1 channel-id="SERIES" tvg-id="GEN V Temporada 1" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="the boys",GEN V Capitulo 1
+https://pelisplay.info/streamhd?id=MTczMjI5&option=castell
